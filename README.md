@@ -88,15 +88,19 @@ improvement opportunities.
 
 ### Overview Dashboard
 
-![ShopEasy Power BI Overview](assets/dashboard-overview.png)
+![ShopEasy Power BI Overview](assets/Overview.png)
 
-### Social Media / Engagement Analysis
+### Conversion Details
 
-![ShopEasy Customer Engagement Analysis](assets/engagement-analysis.png)
+![ShopEasy Conversion Analysis](assets/Conversion Details.png)
 
-### Customer Review Analysis
+### Social Media Details
 
-![ShopEasy Customer Feedback Analysis](assets/customer-feedback.png)
+![ShopEasy Engagement Analysis](assets/Social Media Details.png)
+
+### Customer Review Details
+
+![ShopEasy Customer Feedback Analysis](assets/Customer review details.png)
 
 ## Power BI Dashboard
 
