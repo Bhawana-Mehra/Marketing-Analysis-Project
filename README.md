@@ -92,15 +92,15 @@ improvement opportunities.
 
 ### Conversion Details
 
-![ShopEasy Conversion Analysis](assets/Conversion Details.png)
+![ShopEasy Conversion Analysis](assets/ConversionDetails.png)
 
 ### Social Media Details
 
-![ShopEasy Engagement Analysis](assets/Social Media Details.png)
+![ShopEasy Engagement Analysis](assets/SocialMediaDetails.png)
 
 ### Customer Review Details
 
-![ShopEasy Customer Feedback Analysis](assets/Customer review details.png)
+![ShopEasy Customer Feedback Analysis](assets/Customerreviewdetails.png)
 
 ## Power BI Dashboard
 
@@ -251,7 +251,7 @@ enrichment script (rating-based scoring), then loaded into Power BI.
     scripts for cleaning and preparing raw tables
 -   `customers_review_enrichment.ipynb` --- Python script for
     rating-based sentiment score/category/bucket enrichment
--   `REPORT_MARKETING_ANALYSIS(1).pbix` --- interactive Power BI report
+-   `REPORT_MARKETING_ANALYSIS.pbix` --- interactive Power BI report
     and data model
 
 ## Limitations
